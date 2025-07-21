@@ -10,7 +10,7 @@ An intelligent stock trading simulation bot built using **Java** and core **Data
 * 🧠 **Algorithmic Trading Strategies**:
 
   * Greedy Buy/Sell Logic
-  * Max Profit with Cooldown (DP)
+  * Max Profit with Cooldown (DP).
   * Max Profit with K Transactions (DP Tabulation)
 * 📈 **Trade Execution Logging**: Logs actions (buy/sell/hold) with calculated profit.
 * 🧪 **Testable Logic**: Cleanly separated logic makes it easy to plug in different price arrays and verify outcomes.
